@@ -8,3 +8,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/library-repository/.git/
 ```
+- [X] Adding image
+- [X] Adding code example
+- [ ] Creating a website
